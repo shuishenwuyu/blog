@@ -1,8 +1,7 @@
 ---
-title: 2015-10 云栖大会 Vibe Coding 分享学习总结 - Qoder
+title: 2025 云栖大会 Vibe Coding 分享学习总结 - Qoder
 date: 2025-10-12 22:03:32
 tags: AI
-
 ---
 ![img](https://shuishen-document-img.oss-cn-shanghai.aliyuncs.com/img/20251012220653147.png)
 
